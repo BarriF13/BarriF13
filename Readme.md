@@ -1,5 +1,5 @@
-<!-- .[![bg].( https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/logo.jpg) -->
-<div align="center" id="logo"><a href="https://bdesignstudio.co.uk/"><img src="./images/logo.jpg" style="border:none;" alt=""width="100" height="100" /></div>
+
+<div align="center" id="logo"><a href="https://bdesignstudio.co.uk/"><img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master//images/logo.jpg" style="border:none;" alt=""width="100" height="100" /></div>
 <h1 align="center">Barri Faryad</h1>
 <div align="center">
 
@@ -140,4 +140,3 @@ Art, ballroom dancing, going to the gym, computer games, sewing, hiking, DIY
 
 <link rel="stylesheet" href="images/style.css">
 
-<!-- .[banner]: https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/logo.jpg -->
