@@ -10,14 +10,11 @@
 
 ## <a name="about_me">About me</a>
 
-I am a full stack software developer, passionate for Front-end development with a background in graphic design. 
-
-I have experience designing websites with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. After mastering the basics, I then started learning to code to overcome the restrictions of the platforms.
-
-As soon as I started learning to code I found myself excited and engaged with it. So after 7 months of teaching myself to code, I decided to join Makers Academy to improve my knowledge and challenge myself. Now creating apps, debugging, finding solutions and stylings are my new tools.
+I am a full-stack software developer recently graduated from Makers Academy, passionate for front-end development with a background in graphic design. Currently upskilling Javascript, Reactjs and Redux adding to my capability as a developer. I am constantly improving my knowledge to challenge myself.<br>
+With my growing knowledge, designing apps, debugging, finding solutions and styling are my new tools.
 
 ## <a name="skills">Tech Skills</a>
-- Javascript - React - Node.js
+- JavaScript - React - Redux - Node.js
 - Ruby - Rails
 - HTML - CSS - Bootstrap 
 - RSpec
@@ -38,7 +35,8 @@ As soon as I started learning to code I found myself excited and engaged with it
 
 |<p align="center">Project <img width=400/>| Description <img width=200/>| Links <img width=300/> | Tech<img width=80/> | Status <img width=50/> | 
 |---     |---   |---          |---   |---    |
-| <p align="center">[mnemonic](https://mnemonic-game.herokuapp.com/)</p><br><img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/mnemonic.png" width="400">| My final group project at Makers! A game app for training your short term memory | To project:<br> http://mnemonic-game.herokuapp.com/<br><br> To code:<br> https://github.com/BarriF13/mnemonic| Javascript, React, CSS, HTML, Adobe photoshop | Finalized |
+| <p align="center">[mnemonic](https://mnemonic-game.herokuapp.com/)</p><br><img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/mnemonic.png" width="400">| My final group project at Makers! A game app for training your short term memory | To project:<br> http://mnemonic-game.herokuapp.com/<br><br> To code:<br> https://github.com/BarriF13/mnemonic| Javascript, React, CSS, HTML, Adobe Photoshop | Finalized |
+| <p align="center">[Covid-19 demo](https://covid-19-efe88.web.app/)</p><br><img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/covid.png" width="400">| Demo site for articles and videos about COVID-19 | To project:<br> https://covid-19-efe88.web.app/<br><br> To code:<br> https://github.com/BarriF13/Covid-app-t| Javascript, React, CSS, HTML, Firebase, Adobe Photoshop | Finalized |
 |<p align="center">[Artist portfolio](https://royakhalili.com/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/roya.png" width="400">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  |To project:<br> https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
 |<p align="center"> [Freedom2dance](https://www.freedom-2-dance.co.uk/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/freedom2dance.png" width="400">](https://www.freedom-2-dance.co.uk/) | I have designed and built this site for Freedom2Dance as part of their digital products. I have also update their brand and designed their print and digital materials.|To project:<br> https://www.freedom-2-dance.co.uk/| WIX, CSS, HTML, Adobe photoshop | Maintenance|
 |<p align="center"> [CSS Collection](https://css-styles-demo.netlify.app/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/CSScollection.png" width="400">](https://css-styles-demo.netlify.app/) | CSS collection is a side project that I do for mastering CSS. Also I use this repo as one of my CSS resources. | To project:<br>https://css-styles-demo.netlify.app/<br><br> To code:<br> https://github.com/BarriF13/CSS-animation | CSS, HTML, Netlify, Adobe Photoshop | Ongoing project|
