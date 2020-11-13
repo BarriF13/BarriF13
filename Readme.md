@@ -10,8 +10,12 @@
 
 ## <a name="about_me">About me</a>
 
-I am a full-stack software developer recently graduated from Makers Academy, passionate for front-end development with a background in graphic design. Currently upskilling Javascript, Reactjs and Redux adding to my capability as a developer. I am constantly improving my knowledge to challenge myself.<br>
-With my growing knowledge, designing apps, debugging, finding solutions and styling are my new tools.
+I am a full stack software developer recently graduated from Makers Academy, passionate about frontend
+development. I am constantly improving my knowledge to challenge myself and currently upskilling in
+JavaScript, React.js and Redux, adding to my capability as a developer.<br>
+My previous career in UX and graphic design allowed me to build on my creativity to develop websites
+with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. With my growing knowledge
+as a frontend developer, designing apps, debugging and finding solutions are my new tools.
 
 ## <a name="skills">Tech Skills</a>
 - JavaScript - React - Redux - Node.js
@@ -45,32 +49,63 @@ With my growing knowledge, designing apps, debugging, finding solutions and styl
 |<p align="center"> [Let's hang Adam](https://lets-hang-adam.netlify.app/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/hangadam.png" width="400">](https://css-styles-demo.netlify.app/) | Let's hang Adam is a guessing game known as hangman. Player  tries to guess the word by suggesting letters within a certain number of guesses.| To project:<br>https://lets-hang-adam.netlify.app/ <br><br> To code:<br>https://github.com/BarriF13/Guess_game | CSS, HTML, Netlify | Finalized |
 
 #
-## <a name="education">Education</a>
-
-#### Makers Academy (December 2019 to April 2020)
-
-Makers Academy is an intensive 16-week full-stack web development bootcamp in London, focused on teaching the fundamentals of software engineering:
-
-- OOP, TDD, MVC, DDD
-- Agile
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Jest, Enzyme
-- Git, GitHub
-
-#### School of UX - 2019
-
-An insightful, hands-on & intensive course on User Experience design:
   
 
+## <a name="experience">Work Experience</a>
+
+  
+
+### **B design studio** 2004 - 2020
+
+#### *Freelance graphic/web designer*
+- Used interpersonal skills to interact with the customer to access product needs.
+- Designed and developed wide range of print and digital material, from logo and branding to websites.
+- Achieved a high level understanding of UI design and created the best path for the user journey.
+- Used attention to details during development of user interfaces using CSS, HTML, JavaScript
+and CMS platforms.
+- Created social media content and email template designs.
+- Illustrated commissioned hand-drawing illustrations for charities, such as Hays, ( Hounslow Action for
+Youth Association)
+  
+
+### **Lorca Digital Photography Studio**, 2000 - 2003
+
+#### *In house graphic designer*  
+
+- Collaborated using communication skills within a large team working towards the same goal.
+- Organised responsibilities and time management to work under pressure and meet deadlines.
+- Achieved set design skills and helped photographers to produce better visual products.
+- Consulted clients to assess design needs.
+- Finalized artworks for print production.
+
+### **HV Substations Development Co.**, 2000 - 2003
+
+#### *In house Web designer*
+
+- Designed website within a team of programmers, using Adobe Dreamweaver, HTML and CSS.
+- Structured a better user interface design and focused on anticipating users need.
+- Made deadlines a priority.
+  
+## <a name="education">Education</a>
+
+### **Makers Academy**  Bootcamp - London, 2019 - 2020
+
+- Used pair programming to work on full-stack projects in an agile environment.
+- Developed software using TDD and OOP to improve code quality.
+- Collaborated with others on projects using Git and GitHub.
+- Added continuous Integration and automated deployment to team projects.
+- Learned Ruby and JavaScript in a fast-paced, work-like environment.
+
+### **School of UX** - London, 2019
+
+- An insightful, hands-on and intensive course on User Experience design
 - UX design: mapping user journeys, creating information architecture, sitemaps, etc.
-
 - UI design: accessibility, typography, responsive layout, etc.
-
 - Prototyping & wireframing: structuring content, creating an interactive layout, testing, etc.
 
   
 
-#### Bachelor's degree in Graphic Design 1998-2002
+#### Bachelor's degree in Graphic Design     1998 - 2002
 
 - Branding
 
@@ -84,54 +119,7 @@ An insightful, hands-on & intensive course on User Experience design:
 
 - Drawing
 
-  
 
-## <a name="experience">Experience</a>
-
-  
-
-### **B design studio** (2004 - present)
-
-#### *Freelance graphic/web designer*
-Since University I have worked as a freelance designer. I've been selected to do projects for different types of clients such as freelancers and businesses of various sizes.
-For each, I have helped improve their identity and brand design. I have also always highlighted to them the importance of digital products and their presence in the cyber world.
-As their designer and digital adviser, I had to make sure their digital products are up and running and are in line with the latest trends in the industry, for example on their website:
-- Being responsive, fast loading, optimized for search engines, etc.
-
-- Tested for the best possible user experience.
-
-- Designed with high quality of user interface standards.
-
-- All product - print or digital- follow the same branding prototype.
-
-Also as a freelancer, I was always challenged to:
-- Work with limited budgets for individual or freelance clients and still deliver market standard quality products.
-- Co-operate with different teams such as photographers, and making sure we are following the same goals.
-- Finding smart solutions for any technical or financial obstacle.
-  
-
-### **Lorca Digital Photography Studio** (2000 - 2003)
-
-#### *web/graphic designer  ( in house)*
-
-Working for one of the biggest photography studios as a junior designer helped me:
-- Learn how to work within a big team towards the same goal.
-- Manage my responsibilities, work under pressure and meet deadlines.
-- Achieve set design skills and help photographers to produce better visual products.
-- Talking to clients when the senior designers weren't available.
-- Branding and producing print materials.
-- Producing high-quality digital photos.
-- Helping other designers to convert their print products to digital format.
-### **HV Substations Development Co.** (2000 - 2003)
-
-#### *In house part-time Web designer*
-
-In my first role as a web designer, working side by side with a web developer, I learned about HTML, CSS, Javascript. Our approach to web design was very simple compared to now. I showed sensitivity when designing on UX/UI bases by addressing these points:
-- How users feel when they approach the site.
-- What messages we deliver to them.
-- How easy it is for them to access the information they are looking for.
-- Issues around accessibility and many more.
-  
   
 
 ## <a name="interests">Interests</a>
