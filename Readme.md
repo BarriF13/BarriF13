@@ -12,22 +12,23 @@
 
 I am a full stack software developer recently graduated from Makers Academy, passionate about frontend
 development. I am constantly improving my knowledge to challenge myself and currently upskilling in
-JavaScript, React.js and Redux, adding to my capability as a developer.<br>
+JavaScript, React.js , Node.js, HTML and Sass, adding to my capability as a developer.<br>
 My previous career in UX and graphic design allowed me to build on my creativity to develop websites
 with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. With my growing knowledge
 as a frontend developer, designing apps, debugging and finding solutions are my new tools.
 
 ## <a name="skills">Tech Skills</a>
 - JavaScript - React - Redux - Node.js
-- Ruby - Rails
-- HTML - CSS - Bootstrap 
-- RSpec
+- Sass - HTML - CSS - Bootstrap 
 - Jasmine - Jest - Enzyme
-- Sinatra - Capybara
-- PostgreSQL - MySQL
-- Travis CI - Code Climate - Heroku
+- Heroku
 - Netlify - cPanel - Domain - hosting management 
-
+- Git, Github
+### <a name="skills">Knowledge of:</a>
+- Ruby, Rails
+- RSpec
+- PostgreSQL - MySQL databases
+- CI/CD, Travis
 #### Web/UI design Skill
 
 - Adobe XD - Figma - Invision
@@ -35,6 +36,11 @@ as a frontend developer, designing apps, debugging and finding solutions are my 
 - Adobe Illustrator
 - Adobe Indesign
 
+### <a name="about_me">Other skills</a>
+- Problem-solving
+- Curiosity and love of learning
+- Attention to detail
+- Team work and communication
 ## <a name="projects">Dev Projects</a>
 
 |<p align="center">Project <img width=400/>| Description <img width=200/>| Links <img width=300/> | Tech<img width=80/> | Status <img width=50/> | 
