@@ -47,7 +47,7 @@ as a frontend developer, designing apps, debugging and finding solutions are my 
 |<p align="center"> [What's up with weather?](https://what-is-up-with-weather.netlify.app/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/weather.png" width="400">](https://what-is-up-with-weather.netlify.app/) |Simple weather app that show the weather on a specific location and has 6 features  | To project:<br>https://what-is-up-with-weather.netlify.app/<br><br> To code:<br> https://github.com/BarriF13/weather-app | JavaScript, CSS, HTML, Netlify, Adobe Photoshop |Finalized|
 |<p align="center">[Artist portfolio](https://royakhalili.com/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/roya.png" width="400">](https://royakhalili.com/) | I have designed and built an online portfolio for one of my clients to showcase her arts. I am managing the domain, hosting and maintenance of the site.  |To project:<br> https://royakhalili.com/ | Wordpress, CSS, HTML, cPanel, Adobe photoshop | Maintenance|
 |<p align="center"> [Freedom2dance](https://www.freedom-2-dance.co.uk/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/freedom2dance.png" width="400">](https://www.freedom-2-dance.co.uk/) | I have designed and built this site for Freedom2Dance as part of their digital products. I have also update their brand and designed their print and digital materials.|To project:<br> https://www.freedom-2-dance.co.uk/| WIX, CSS, HTML, Adobe photoshop | Maintenance|
-|<p align="center"> [CSS Collection](https://css-styles-demo.netlify.app/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/CSScollection.png" width="400">](https://css-styles-demo.netlify.app/) | CSS collection is a side project that I do for mastering CSS. Also I use this repo as one of my CSS resources. | To project:<br>https://css-styles-demo.netlify.app/<br><br> To code:<br> https://github.com/BarriF13/CSS-animation | CSS, HTML, Netlify, Adobe Photoshop | Ongoing project|
+|<p align="center"> [Babylon garden design](https://babylon-gardens.netlify.app/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/babylon.png" width="400">](https://babylon-gardens.netlify.app/) | Sass project for use of grid system in css for designing responsive website | To project:<br>https://babylon-gardens.netlify.app/<br><br> To code:<br> https://github.com/BarriF13/babylon-garden-design | Sass, CSS, HTML, Netlify | Finalized|
 |<p align="center"> [Let's hang Adam](https://lets-hang-adam.netlify.app/)</p><br>[<img src="https://raw.githubusercontent.com/BarriF13/BarriF13/master/images/hangadam.png" width="400">](https://css-styles-demo.netlify.app/) | Let's hang Adam is a guessing game known as hangman. Player  tries to guess the word by suggesting letters within a certain number of guesses.| To project:<br>https://lets-hang-adam.netlify.app/ <br><br> To code:<br>https://github.com/BarriF13/Guess_game | CSS, HTML, Netlify | Finalized |
 
 #
@@ -57,7 +57,7 @@ as a frontend developer, designing apps, debugging and finding solutions are my 
 
   
 
-### **B design studio** 2004 - 2020
+### **B design studio** 2015 - 2019
 
 #### *Freelance graphic/web designer*
 - Used interpersonal skills to interact with the customer to access product needs.
@@ -68,26 +68,7 @@ and CMS platforms.
 - Created social media content and email template designs.
 - Illustrated commissioned hand-drawing illustrations for charities, such as Hays, ( Hounslow Action for
 Youth Association)
-  
-
-### **Lorca Digital Photography Studio**, 2000 - 2003
-
-#### *In house graphic designer*  
-
-- Collaborated using communication skills within a large team working towards the same goal.
-- Organised responsibilities and time management to work under pressure and meet deadlines.
-- Achieved set design skills and helped photographers to produce better visual products.
-- Consulted clients to assess design needs.
-- Finalized artworks for print production.
-
-### **HV Substations Development Co.**, 2000 - 2003
-
-#### *In house Web designer*
-
-- Designed website within a team of programmers, using Adobe Dreamweaver, HTML and CSS.
-- Structured a better user interface design and focused on anticipating users need.
-- Made deadlines a priority.
-  
+    
 ## <a name="education">Education</a>
 
 ### **Makers Academy**  Bootcamp - London, 2019 - 2020
@@ -107,8 +88,7 @@ Youth Association)
 
   
 
-#### Bachelor's degree in Graphic Design     1998 - 2002
-
+### **Bachelor's degree in Graphic Design** 2004-2008
 - Branding
 
 - Logo design
