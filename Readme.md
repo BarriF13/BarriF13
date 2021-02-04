@@ -10,10 +10,10 @@
 
 ## <a name="about_me">About me</a>
 
-I am a full stack software developer recently graduated from Makers Academy, passionate about frontend
+I am a full-stack software developer recently graduated from Makers Academy, passionate about frontend
 development. I am constantly improving my knowledge to challenge myself and currently upskilling in
-JavaScript, React.js , Node.js, HTML and Sass, adding to my capability as a developer.<br>
-My previous career in UX and graphic design allowed me to build on my creativity to develop websites
+JavaScript, React.js, Node.js, HTML and Sass, adding to my capability as a developer.<br>
+My previous career in UI and graphic design allowed me to build on my creativity to develop websites
 with Adobe Dreamweaver and CMS platforms such as WordPress and Wix. With my growing knowledge
 as a frontend developer, designing apps, debugging and finding solutions are my new tools.
 
